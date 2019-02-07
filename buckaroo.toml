@@ -1,0 +1,3 @@
+[[dependency]]
+package = "github.com/buckaroo-pm/apache-pulsar"
+version = "branch=master"
