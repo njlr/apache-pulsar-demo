@@ -6,7 +6,7 @@ target = "//pulsar-client-cpp:pulsar-client-cpp"
 
 [lock."github.com/buckaroo-pm/apache-pulsar"]
 versions = [ "branch=master" ]
-revision = "836535dff39ec20e4f16f412ab368609a716f6e1"
+revision = "f417cdc504e24d49eb7cda57ec2b9fda16336960"
 
 [lock."github.com/buckaroo-pm/boost-accumulators"]
 versions = [ "1.68.0" ]
@@ -284,33 +284,33 @@ revision = "a057e6647fbb13724a6f1a63377d0e3f51d85c03"
 versions = [ "1.68.0" ]
 revision = "c9e18e5742f0c134f49785af46392ccaa2f8f894"
 
+[lock."github.com/buckaroo-pm/curl"]
+versions = [ "7.49.1" ]
+revision = "db47542dba8420c31bd05671041fd03be2130da1"
+
 [lock."github.com/buckaroo-pm/freetype2"]
 versions = [ "2.9.1" ]
 revision = "e1cf7490e837074728f5a397ff2d0d473cf1e74d"
 
 [lock."github.com/buckaroo-pm/icu4c"]
 versions = [ "branch=master" ]
-revision = "2bfbe715e2c1cd41e301b6a67fd50ae54273a504"
+revision = "7dfc9d72ec1fd0a47d0ef4f8e7756c797ad26f53"
 
 [lock."github.com/buckaroo-pm/lz4"]
 versions = [ "1.8.3" ]
 revision = "f576feecc164247395e030ff17b098a81d8a8aff"
 
 [lock."github.com/buckaroo-pm/madler-zlib"]
-versions = [ "1.2.10" ]
-revision = "38adec568454da68aba00e712d2f2327fa884a72"
+versions = [ "1.2.11" ]
+revision = "94a70f3274f15bf98b472178e91fd57a6e6c53d8"
 
 [lock."github.com/buckaroo-pm/open-source-parsers-jsoncpp"]
 versions = [ "branch=master" ]
 revision = "518b3cfb2fab26c224732bba92a97b7a7c304cf2"
 
 [lock."github.com/buckaroo-pm/openssl"]
-versions = [ "tag=1.0.2j" ]
-revision = "e61671249ee5dfa59b663d135b64dd6fe9efe9d0"
-
-[lock."github.com/buckaroo-pm/pkg-config-curl"]
-versions = [ "branch=master" ]
-revision = "172dabe81beabe3f4dce71d66a5ff9251ef9ef11"
+versions = [ "tag=1.0.2p" ]
+revision = "7838e48d8436ce59326fc8dce663ca0f8d1012f4"
 
 [lock."github.com/buckaroo-pm/protobuf"]
 versions = [ "2.6.1" ]
