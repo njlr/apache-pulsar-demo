@@ -286,11 +286,19 @@ revision = "c9e18e5742f0c134f49785af46392ccaa2f8f894"
 
 [lock."github.com/buckaroo-pm/curl"]
 versions = [ "7.49.1" ]
-revision = "db47542dba8420c31bd05671041fd03be2130da1"
+revision = "a052eda79cc0897699552bf0239fb6dd0a33ce1c"
 
 [lock."github.com/buckaroo-pm/freetype2"]
 versions = [ "2.9.1" ]
 revision = "e1cf7490e837074728f5a397ff2d0d473cf1e74d"
+
+[lock."github.com/buckaroo-pm/host-core-foundation"]
+versions = [ "branch=master" ]
+revision = "fd7081ffe1244afb86c41c2d41d3603f851feae8"
+
+[lock."github.com/buckaroo-pm/host-security"]
+versions = [ "branch=master" ]
+revision = "f7aba7ed43bd385648cb550128ce69800172343c"
 
 [lock."github.com/buckaroo-pm/icu4c"]
 versions = [ "branch=master" ]
@@ -310,7 +318,7 @@ revision = "518b3cfb2fab26c224732bba92a97b7a7c304cf2"
 
 [lock."github.com/buckaroo-pm/openssl"]
 versions = [ "tag=1.0.2p" ]
-revision = "7838e48d8436ce59326fc8dce663ca0f8d1012f4"
+revision = "1f1935327083eabb14370b43049f37839975c36f"
 
 [lock."github.com/buckaroo-pm/protobuf"]
 versions = [ "2.6.1" ]
